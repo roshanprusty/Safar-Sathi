@@ -29,7 +29,12 @@ const connect = async () => {
 };
 
 app.use(express.json());
+/* `app.use(cors(corsOptions));` is enabling Cross-Origin Resource Sharing (CORS) for the Express
+application. */
 app.use(cors(corsOptions));
+/* `app.use(cookieParser());` is a middleware function that parses cookies attached to the incoming
+request object. It adds a `cookies` property to the request object, which contains the parsed
+cookies. This allows you to access and manipulate cookies in your application. */
 app.use(cookieParser());
 app.use('/api/v1/tours', tourRoute);
 app.use('/api/v1/users', userRoute);

@@ -47,24 +47,24 @@ const Footer = () => {
                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, enim.</p>
                      <div className="social__link d-flex align-items-center gap-4">
                         <span>
-                           <Link to='#'>
-                              <i class='ri-youtube-line'></i>
-                           </Link>
+                        <a href='https://twitter.com/RoshanPrusty6' target='_blank' rel='noreferrer'>
+                              <i className='ri-twitter-fill'></i>
+                           </a>
                         </span>
                         <span>
-                           <Link to='#'>
-                              <i class='ri-github-fill'></i>
-                           </Link>
+                           <a href='https://github.com/roshanprusty' target='_blank' rel='noreferrer'>
+                              <i className='ri-github-fill'></i>
+                           </a>
                         </span>
                         <span>
-                           <Link to='#'>
-                              <i class='ri-facebook-circle-line'></i>
-                           </Link>
+                        <a href='https://www.linkedin.com/in/roshan-prusty/' target='_blank' rel='noreferrer'>
+                              <i className='ri-linkedin-fill'></i>
+                           </a>
                         </span>
                         <span>
-                           <Link to='#'>
-                              <i class='ri-instagram-line'></i>
-                           </Link>
+                        <a href='https://www.instagram.com/roshan._.prusty/' target='_blank' rel='noreferrer'>
+                              <i className='ri-instagram-line'></i>
+                           </a>
                         </span>
                      </div>
                   </div>
@@ -105,7 +105,7 @@ const Footer = () => {
                            <span><i class='ri-map-pin-line'></i></span>
                            Address:
                         </h6>
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>LPU</p>
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -114,7 +114,7 @@ const Footer = () => {
                            Email:
                         </h6>
 
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>roshan18@gmail.com</p>
                      </ListGroupItem>
 
                      <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-3'>
@@ -123,7 +123,7 @@ const Footer = () => {
                            Phone:
                         </h6>
 
-                        <p className='mb-0'>Lorem</p>
+                        <p className='mb-0'>7894561230</p>
                      </ListGroupItem>
                   </ListGroup>
                </Col>
