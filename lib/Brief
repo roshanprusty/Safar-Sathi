@@ -1,0 +1,1 @@
+JWT: To authenticate user, I have used JWT(JSON WEB TOKEN) bcz it completely removing the overhead of session management via third party or itself and also it helps in achieving the stateless session concept plus it can't be tempered.

@@ -11,7 +11,7 @@ router.put('/:id',verifyAdmin, updateTour);
 router.delete('/:id',verifyAdmin, deleteTour);
 //create a new tour
 router.get('/:id', getSingleTour);
-//create a new tour
+// create a new tour
 router.get('/', getAllTour);
 //get tour by search 
 router.get('/search/getTourBySearch', getTourBySearch);

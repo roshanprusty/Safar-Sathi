@@ -6,6 +6,7 @@ import { useNavigate } from 'react-router-dom'
 import { AuthContext } from '../../context/AuthContext'
 import { BASE_URL } from '../../utils/config'
 
+
 const Booking = ({ tour, avgRating }) => {
    const { price, reviews, title } = tour
    const navigate = useNavigate()
