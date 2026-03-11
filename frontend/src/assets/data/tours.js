@@ -15,7 +15,7 @@ const tours = [
     address: 'SomeWhere',
     price: 99,
     maxGroupSize: 10,
-    desc: "this is the description",
+    desc: "Explore the iconic Westminster Bridge with stunning views of the River Thames and the Houses of Parliament.",
     reviews: [
       {
         name: "jhon doe",

@@ -4,11 +4,10 @@
     "city": "London",
     "address": "Somewhere in London",
     "distance": 300,
-    "price": 99,
+    "price": 120,
     "maxGroupSize": 10,
-    "desc": "this is the description",
+    "desc": "Explore the iconic Westminster Bridge with stunning views of the River Thames and the Houses of Parliament.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img01.jpg",
     "featured": true
   },
@@ -17,11 +16,10 @@
     "city": "Bali",
     "address": "Somewhere in Indonesia",
     "distance": 400,
-    "price": 99,
+    "price": 150,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Experience the tropical paradise of Bali with its beautiful beaches, temples, and vibrant culture.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img02.jpg",
     "featured": true
   },
@@ -30,11 +28,10 @@
     "city": "Bangkok",
     "address": "Somewhere in Thailand",
     "distance": 500,
-    "price": 99,
+    "price": 110,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Discover breathtaking mountain landscapes and cool weather escapes just outside bustling Bangkok.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img03.jpg",
     "featured": true
   },
@@ -43,11 +40,10 @@
     "city": "Phuket",
     "address": "Somewhere in Thailand",
     "distance": 500,
-    "price": 99,
+    "price": 130,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Enjoy a magical sunrise over Phuket’s beaches with crystal-clear waters and peaceful surroundings.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img04.jpg",
     "featured": true
   },
@@ -56,11 +52,10 @@
     "city": "Bali",
     "address": "Somewhere in Indonesia",
     "distance": 500,
-    "price": 99,
+    "price": 160,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Visit the stunning cliffs and turquoise waters of Nusa Penida for an unforgettable island adventure.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img05.jpg",
     "featured": true
   },
@@ -69,11 +64,10 @@
     "city": "Tokyo",
     "address": "Somewhere in Japan",
     "distance": 500,
-    "price": 99,
+    "price": 180,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Witness the beauty of cherry blossoms blooming across Tokyo’s parks during the spring season.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img06.jpg",
     "featured": true
   },
@@ -82,11 +76,10 @@
     "city": "Paris",
     "address": "Somewhere in France",
     "distance": 500,
-    "price": 99,
+    "price": 140,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Explore charming Parisian streets, historic landmarks, and romantic river views in the heart of France.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img07.jpg",
     "featured": true
   },
@@ -95,11 +88,10 @@
     "city": "Bangkok",
     "address": "Somewhere in Thailand",
     "distance": 500,
-    "price": 99,
+    "price": 115,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Take a refreshing getaway to Thailand’s scenic highlands with panoramic mountain views.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img03.jpg",
     "featured": true
   },
@@ -108,11 +100,10 @@
     "city": "Sylhet",
     "address": "Somewhere in Sylhet",
     "distance": 100,
-    "price": 99,
+    "price": 82,
     "maxGroupSize": 5,
-    "desc": "this is the description",
+    "desc": "Enjoy the serene beauty of Jaflong with its crystal-clear rivers and lush green hills.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img08.jpg",
     "featured": false
   },
@@ -121,11 +112,10 @@
     "city": "Chittagong",
     "address": "Somewhere in Chittagong",
     "distance": 500,
-    "price": 99,
+    "price": 90,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Relax at Cox’s Bazar, home to the world’s longest natural sea beach with golden sands and ocean views.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img09.jpg",
     "featured": false
   }

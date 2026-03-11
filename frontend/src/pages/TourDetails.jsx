@@ -32,7 +32,10 @@ const TourDetails = () => {
 
       try {
          if (!user || user === undefined || user === null) {
-            alert('Please sign in')
+            return alert('Please sign in')
+         }
+         if (!tourRating) {
+            return alert('Please select a rating before submitting your review')
          }
          const reviewObj = {
             username: user?.username,
